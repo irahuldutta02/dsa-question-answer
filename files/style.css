@@ -1,3 +1,18 @@
+#body{
+    background-color: bisque;
+}
+
+#example,
+#example td,
+#example th{
+    border: 2px solid black;
+    font-weight: bold;
+}
+
+#example th{
+    text-align: center;
+}
+
 ::-webkit-scrollbar {
     width: 8px;
 }
@@ -16,3 +31,4 @@
 ::-webkit-scrollbar-thumb:hover {
     background: #555;
 }
+
