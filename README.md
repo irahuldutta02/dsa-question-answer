@@ -1,4 +1,3 @@
 # dsa-question-answer
 
-Site : [dsa-question-answer.netlify.app](https://dsa-question-answer.netlify.app/)
-
+Site : <a href="https://dsa-question-answer.netlify.app/" target="_blank">dsa-question-answer.netlify.app</a>
